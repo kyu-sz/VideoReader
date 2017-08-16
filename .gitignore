@@ -3,6 +3,7 @@
 
 # Binary files #
 *.so*
+target/
 
 # Temporary files #
 checkpoint/
