@@ -21,8 +21,7 @@ checkpoint/
 
 # IDEA files #
 *.iml
-.idea
-.gitignore
+.idea/
 
 # Model files #
 *.caffemodel
