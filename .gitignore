@@ -1,0 +1,34 @@
+# Data files #
+*.mp4
+
+# Binary files #
+*.so*
+
+# Temporary files #
+checkpoint/
+*.log*
+*.swp
+*.lck
+
+# Eclipse project files #
+.project
+.classpath
+.settings/
+/bin/
+
+# VSCode files #
+.vscode
+
+# IDEA files #
+*.iml
+.idea
+.gitignore
+
+# Model files #
+*.caffemodel
+*.ckpt*
+*.pb
+lib/
+
+# System runtime logs #
+core.*
